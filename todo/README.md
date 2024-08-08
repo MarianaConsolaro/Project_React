@@ -2,7 +2,7 @@
 
 # Project To Do List with React
 
-![Website](/image/Todo_list.png)
+![Website](Image/Todo_list.png)
 
 
 
